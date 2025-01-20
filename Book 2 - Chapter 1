@@ -1,0 +1,5 @@
+for (var i = 0; i < 300; i++) {
+    document.write("Coding is fun!");
+}
+
+console.log("Mieke said, 'Hi class', and then she carried on with her day.");
