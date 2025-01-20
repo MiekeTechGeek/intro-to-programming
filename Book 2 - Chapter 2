@@ -1,0 +1,13 @@
+// alert("Boom Bam");
+
+for (var i = 0; i < 300; i++) {
+    document.write("Mieke said, 'Hi class', and then he carried on with his day.");
+};
+
+var string1 = "string";
+var string2 = "string";
+
+// single comment
+
+/* multiple line
+comment */
